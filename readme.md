@@ -1,4 +1,4 @@
-# **ARTICLE**
+# **ARTICLES**
 
 ## **WEB SERVER**
 ![](./images/web-server.png)
